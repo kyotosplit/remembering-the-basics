@@ -1,25 +1,4 @@
-/*
-Soma das matrizes: Calcule a soma das matrizes A e B (A + B). OK
-Multiplicação de matrizes: Calcule o produto das matrizes A e B (A * B). 
-Determinante da matriz A: Encontre o determinante da matriz A. OK
-Transposta de A e B: Calcule a transposta das matrizes A e B (Aᵀ e Bᵀ).
-Resolução:
 
-A= 207
-   451
-   138​
-  ​
-​B= 135
-   405
-   617
-
-Para somar as matrizes, basta somar elemento a elemento, ou seja, A[i][j] + B[i][j]. OK
-A multiplicação de matrizes envolve a soma do produto dos elementos da linha de uma matriz pela coluna da outra. OK
-O determinante da matriz 3x3 segue a regra de Sarrus ou co-fatores.
-A transposta de uma matriz é obtida trocando as linhas pelas colunas.
-
-
-*/
 
 #include <iostream>
 using namespace std;
